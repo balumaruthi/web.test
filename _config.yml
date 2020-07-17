@@ -1,0 +1,8 @@
+title: Web.test
+description: web test repository
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
